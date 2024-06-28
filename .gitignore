@@ -1,0 +1,8 @@
+db.sqlite3
+users/__pycache__/
+pages/__pycache__/
+newspaper_project/__pycache__/
+articles/__pycache__/
+users/migrations/
+pages/migrations/
+newspaper_project/migrations/
